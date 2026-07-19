@@ -26,4 +26,4 @@ This project analyzes Intel's 2024 device repurposing program using SQL to evalu
 
 📄 See the full report:
 
-SQL Project _ Sustainability Impact Analysis for Intel.pdf
+[View the Full Project Report](./SQL%20Project_%20Sustainability%20Impact%20Analysis%20for%20Intel.pdf)
