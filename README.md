@@ -1,3 +1,5 @@
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/689f9906-1217-454d-a9fa-9ab42bdf8137" />
+
 # SQL Data Analysis – Intel Sustainability Impact Analysis
 
 ## Overview
